@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "POO_STATIC/1.0.0": {
+        "runtime": {
+          "POO_STATIC.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "POO_STATIC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
